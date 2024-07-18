@@ -1,1 +1,3 @@
-Init
+Title: Local ToDO List App
+Tech Stack: React, Zustand, MUI 
+Features: Task Manipulation,Sub Task, Prioritization
